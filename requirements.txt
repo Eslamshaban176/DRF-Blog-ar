@@ -16,6 +16,7 @@ idna==3.4
 inflection==0.5.1
 jsonschema==4.19.2
 jsonschema-specifications==2023.7.1
+mysqlclient==2.2.0
 oauthlib==3.2.2
 pycparser==2.21
 PyJWT==2.8.0
